@@ -17,3 +17,5 @@ console.log(person);
 const prop = "profession";
 person[prop] = "devops";
 console.log(person);
+
+console.log(person["fav places"]);
